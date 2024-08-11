@@ -1,0 +1,71 @@
+@media screen and (max-width:480px){
+	.bannerSec h2 {
+		font-size: 45px;
+	}
+	
+	.bannerSec p {
+		font-size: 25px;
+	}
+	
+	.bannerSec a button {
+		margin-bottom: 20px;
+	}
+	
+	.serviceSec {
+		padding: 50px 0;
+	}
+
+	.serviceSec .row{
+		width: 350px;
+		margin: auto;
+		max-width: 100%;
+	}
+	
+	.serviceSec .row .over{
+		width: 100%;
+	}
+
+	.indSectoin {
+		border-bottom: 1px solid #fff;
+		padding: 30px 0;
+	}
+	
+	.indSectoin .icon img{
+		margin: auto;
+	}
+	
+	.button {
+	padding: 9px 5px;
+	}
+	
+	.details .pne_no {
+		display: block;
+		width: 120px;
+		margin: 0 auto;
+		padding-top: 20px;
+		background-position: left bottom;
+	}
+
+	.theme .container{
+		padding: 0;
+	}
+
+	.element-item {
+		border: 1px solid #fff;
+	}
+	
+}
+
+@media screen and (max-width:768px){
+	.bannerSec {
+	padding: 0;
+	}
+	
+	.bannerSec a button {
+		margin-bottom: 20px;
+	}
+	
+	.indSectoin {
+		padding: 40px 0;
+	}
+}
