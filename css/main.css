@@ -198,6 +198,7 @@ a, button{
 
 .indSectoin .icon img{
 	display: block;
+    margin: auto;
 }
 
 .indSectoin h4 {
