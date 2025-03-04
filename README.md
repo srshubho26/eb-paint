@@ -1,2 +1,2 @@
 Live preview at 
-https://shuvo22890.github.io/eb-paint/
+https://srshubho26.github.io/eb-paint/
